@@ -4,7 +4,7 @@ Aplicación de **Visión Artificial (`YOLOv8-seg` + OpenCV)** y **Mantenimiento 
 
 ## Demo Interactiva en Vivo
 
-👉 **[Abrir Aplicación Web (Streamlit Cloud)](https://TU-ENLACE-DE-STREAMLIT.streamlit.app)**
+👉 **[Abrir Aplicación Web (Streamlit Cloud)](https://monitoreo-tapon-perforador-krsrq26hj5c2uedpbr9kle.streamlit.app/)**
 
 ---
 
