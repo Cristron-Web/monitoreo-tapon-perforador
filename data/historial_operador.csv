@@ -1,0 +1,5 @@
+timestamp,corrida_id,ciclo,riesgo_pct,rul_estimado,decision,nota
+2026-11-24 14:42:28,1,20,0.2,15.9,Falsa alarma (recalibrar),
+2026-11-24 16:45:28,2,37,99.5,0.4,Inspección visual preventiva,
+2026-11-24 17:01:54,1,38,99.3,0.6,Inspección visual preventiva,
+2026-11-24 23:57:44,1,20,0.2,15.9,Continuar corrida,
